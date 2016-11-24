@@ -1,0 +1,69 @@
+body{
+  background-color: #f8f8f8;
+}
+.level {
+  padding-bottom:32px;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top:32px;
+/*background-color: #7d8182;*/
+max-width: 100%;
+}
+
+.learn_box {
+margin-left: auto;
+margin-right: auto;
+background-color: #fff;
+padding-top: 24px;
+padding-right: 24px;
+padding-bottom: 22px;
+padding-left: 24px;
+border: 1px solid #efefef;
+border-radius: 6px;
+font-size: 20px;
+}
+.level2{
+  padding-top: 32px;
+}
+.learnimage{
+  margin-left: 35%;
+  margin-right: auto;
+}
+
+#forget_id {
+  margin-right: 10px;
+}
+.learn_box2 {
+margin-left: auto;
+margin-right: auto;
+background-color: #fff;
+padding-top: 24px;
+padding-right: 24px;
+padding-bottom: 22px;
+padding-left: 24px;
+border: 1px solid #efefef;
+border-radius: 6px;
+font-size: 20px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+input {
+  width: 100%;
+  height: 75px;
+margin-bottom: 10px;
+font-size: 20px;
+
+}
+a {
+  text-decoration: none;
+    color: #00bce1;
+}
+.submit_class{
+  background-color: #00bce1;
+}
+.submit_class2{
+color: #00bce1;
+border: 1px solid #00bce1;
+background-color: #fff;
+}
